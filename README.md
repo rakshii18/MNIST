@@ -1,2 +1,2 @@
 # MNSIT-Data
-Using the KNN algorithm for predicting the label of images of the MNSIT data set
+Using the KNN algorithm for predicting the label of images of the MNSIT data set. The data set has 2 csv files - one meant for training the model and one meant for testing the model. In this I have manually altered the values of the nearest neighbours and found the best value. On the other hand one can create a model, tune the hyper parameters and input the best estimator value into the model.
